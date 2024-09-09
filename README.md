@@ -23,6 +23,6 @@ Welcome to my GitHub profile! I'm a passionate developer focusing on backend dev
 
 ## 📫 How to reach me:
 - **Email:** mathewjoseph200526@gmail.com
-- **LinkedIn:** [Mathew Joseph](https://www.linkedin.com/in/mathew-joseph)
+- **LinkedIn:** [Mathew Joseph](https://www.linkedin.com/in/mathew-joseph-9b2a12276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Feel free to explore my repositories and connect with me for any collaborations or discussions!
